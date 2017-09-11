@@ -393,6 +393,9 @@
   <ItemGroup>
     <ClCompile Include="ltalloc.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\ltalloc.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -688,7 +688,7 @@ void ltfree(void *p)
 		sys_free(p);
 }
 
-size_t ltalloc_usable_size(void *p)
+size_t  ltalloc_usable_size(void *p)
 {
 	if (likely((uintptr_t)p & (CHUNK_SIZE-1)))
 	{
