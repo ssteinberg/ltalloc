@@ -10,9 +10,4 @@
       <UniqueIdentifier>{62AFFB78-9BE1-3586-8D3A-CE7930FFBD18}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ltalloc.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>

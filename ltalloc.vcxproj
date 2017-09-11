@@ -391,9 +391,6 @@
     <Lib />
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="ltalloc.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="ltalloc.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
